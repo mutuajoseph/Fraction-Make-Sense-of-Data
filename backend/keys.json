@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fraction-assessment",
+  "private_key_id": "339c17b72f63c49232ae548da3b54ed3d08f1a0e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCZ7COqzYv1QNJi\nf/V4En9F4lEbwNUYRcKhcCw4S8I9zRrTzzdaZqmHr3bVKwHScGP2gO1M3ima59FV\ncTJHdrasSohDuaCGAbV1QuSauFo6noq4PIw/xwqAQR6TRZ22MR0chVaj9E5dwp15\nHqfMf0sdd3yY1Y4XpR0dD2DarE7iQsz3CxL6QdBqMwDlLFMJVXSPOjU7yIDkljfI\na4PTZkFaTrJhBQNgq711wrO19v01xP+HK8fjptyzEB+Xakbd5A3AraThla1fqOMG\nIXnZGDyee8aV1lig865BKFfnulMGcf0NXlvhUchB4OskIHoUBMJtVb+u7o7E3idq\noRbgsU8lAgMBAAECgf9wulcW9XhhZe4/nyPLzzqkSh5wTgmsqa1py7UGWVQz9Gnr\n3QCqUyceOzQXw6IJoSqJqVecUBi+qw4yqXRu5826ca8G9dMMqsn6n5aQB7FE6bwj\nkNBS5UPT57DCaFh0tST4wSkwMtAFfGQgdK7vxWCfR4zrHwzTHWULVX2Akw/wAwAz\nPZyya5WFxMd4/ywSjVk86Ea6KWbKj23ZL7OUm3rCblJfL2ZD+PgNr8li3Cw5rndW\ndDx67iaaQYYB2VDqpb6gvUCboKIBsrFeVzvj1XaHIBW4+hCG6c8XZWkCxstwm/MT\nFZl2bdJ+CntbSLgWxEVhapD91h7jW7xIMnmQbEECgYEA0OKkrkEL9VVg47yi56Tg\ncwv4GZUBGsGWi8sYp+rCwKTiojieGoS6aBonm/A1m43V+wHfIsueyF1zbLobVzWG\nNRRcIGSWyo42SmWWotM3ivjPTXSFx6cSDnfoeDfPjzN+BQgebJml4O937BUqWlRY\nIg2Nr+2O2ByQo56BQg6AcGUCgYEAvKPaqlNxZtynbvnqALiz1WicGho2Euz0Ljbe\nnLSsNPn+OrmpGmDQlbCNs5jh4MKf51S+RhwBGmtKCbLX2i0Cg77ZAVmk5m84cTTZ\n+6X0N958IQ+ZUBlUtMArI1uKcT9h24L0ew1GrpJe4UcshLmnPMAVjAels3Ei2uNi\nQJG9l8ECgYBTbwO6Om8NWkHuFQ24msmwCkrZ5QNg7Yw1YDUD9Sg/DF0d0KGOFA/k\nvvWtOqAe9uNOdCvtWQmeHH2bIycCiXWGxBAcPDFizLTwuG0XsmgQEVu0I2PAIIJ8\n1vY69ofoOfgPCHQmiqSQGPZ8jOOy2tetGl7Ks4eH2LkJMamNef9hZQKBgF43CBNh\nsZXKRuWqdDEADvFbWfu/c5poNlyOkwh5RDkBUvRJnifKiuL4Vw2IIeh7zBlhvdaO\nTg6/3y6Q4DXbnRHn08JU34MnsWz5FJYXAK6WtDBe9heHT0MnZ2Q1aCO/oEReV3TN\n4Kt392NUhOuVPe2dkiVp/Fxu+RWR05SkNakBAoGAWja17gBEOIWCZEhH6QKDxTpy\nb/BtO5lPLjhZUHhZedb91d9FKFOY9iqK7/6YoD4bXOygLcwKXwN0G7l4t2LnwspW\nRW7xhupIiIIG8y3OwQFv9/mGs6rsxEOx0hEe74GaWVLMu7j92kUlMz0gkY1xQbLg\nJGrTRBAjm92BZJA20Nk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fraction-assesment-one@fraction-assessment.iam.gserviceaccount.com",
+  "client_id": "102815739356448136045",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fraction-assesment-one%40fraction-assessment.iam.gserviceaccount.com"
+}
