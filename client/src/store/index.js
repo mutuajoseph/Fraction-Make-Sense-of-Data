@@ -32,7 +32,7 @@ export default new Vuex.Store({
       return new Promise((resolve, reject) => {
         context.commit('SET_LOADING_STATUS', true);
         axios
-          .get(`http://127.0.0.1:8000/sample-data`)
+          .get(`http://138.68.107.239:8005/sample-data`)
           .then((res) => {
             context.commit('SET_LOADING_STATUS', false);
             context.commit('SET_FINANCIAL_DATA', res.data);
@@ -51,7 +51,7 @@ export default new Vuex.Store({
       return new Promise((resolve, reject) => {
         context.commit('SET_LOADING_STATUS', true);
         axios
-          .get(`http://127.0.0.1:8000/sample-data/sales`)
+          .get(`http://138.68.107.239:8005/sample-data/sales`)
           .then((res) => {
             context.commit('SET_LOADING_STATUS', false);
             context.commit('SET_GROUPED_DATA', res.data);
