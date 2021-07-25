@@ -10,5 +10,6 @@ To run the application use the steps highlighted below.
 
 #### Client
     1. navigate to the clients directory
-    2. Run npm install to setup the node environment and also install the packages/dependencies needed.
+    2. Run npm install to setup the node environment and also install the 
+       packages/dependencies needed.
     3. To start the client - npm run serve
